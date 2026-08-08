@@ -36,16 +36,21 @@
 <h2 id="motion" style="color: #00F5FF;">// MOTION GRAPHICS</h2>
 <p><i>Click to view motion sequences</i></p>
 
-[<img src="./assets/motion/smoke banner 2.gif.mp4" width="400" />](./assets/motion/smoke banner 2.gif.mp4)
+<div align="center">
+  <img
+    src="./assets/motion/rory-motion.gif"
+    width="400"
+    alt="Motion design preview"
+  />
+</div>
 
 <br>
 
 <!-- FOOTER -->
 
+
 <div align="center">
-  <img
-    src="assets/motion/smoke banner 2.gif.mp4"
-    width="400"
-    alt="Motion design preview"
-  />
+
+  <img src="https://img.shields.io/badge/DESIGNED%20BY-MATIN%20PAYAN-00F5FF?style=for-the-badge&labelColor=000000&color=00F5FF" />
+
 </div>
