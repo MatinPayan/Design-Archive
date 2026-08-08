@@ -17,8 +17,8 @@
 
 | Project | Description | Preview |
 | :--- | :--- | :--- |
-| **Dashboard X** | Saas Admin Panel Design | [View](./assets/ui-ux/dashboard-x.png) |
-| **E-commerce App** | Mobile User Experience | [View](./assets/ui-ux/ecommerce.png) |
+| **Dashboard X** | Saas Admin Panel Design | [View](./assets/ui-ux/image-1.png) |
+| **E-commerce App** | Mobile User Experience | [View](./assets/ui-ux/image.png) |
 
 <br>
 
