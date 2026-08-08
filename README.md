@@ -42,5 +42,11 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <p style="color: #00F5FF;">Crafted with passion in Cyan & Black.</p>
+<div align="center">
+  <img
+    src="./assets/motion/rory-motion.gif"
+    width="400"
+    alt="Motion design preview"
+  />
+</div>
 </div>
