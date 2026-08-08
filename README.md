@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="./assets/branding/IMG_20260808_034803_455.png" width="300" />
-  <img src="./assets/branding/logo-sample-2.png" width="300" />
+  <img src="./assets/branding/IMG_20260808_034803_890.png" width="300" />
 </div>
 
 <br>
