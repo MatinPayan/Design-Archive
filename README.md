@@ -41,12 +41,11 @@
 <br>
 
 <!-- FOOTER -->
-<div align="center">
+
 <div align="center">
   <img
     src="./assets/motion/rory-motion.gif"
     width="400"
     alt="Motion design preview"
   />
-</div>
 </div>
