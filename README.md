@@ -44,7 +44,7 @@
 
 <div align="center">
   <img
-    src="./assets/motion/rory-motion.gif"
+    src="./assets/motion/smoke prof.gif.mp4"
     width="400"
     alt="Motion design preview"
   />
