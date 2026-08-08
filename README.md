@@ -36,7 +36,7 @@
 <h2 id="motion" style="color: #00F5FF;">// MOTION GRAPHICS</h2>
 <p><i>Click to view motion sequences</i></p>
 
-[<img src="./assets/motion/ezgif.com-gif-maker.mp4" width="400" />](./assets/motion/animation-1.mp4)
+[<img src="./assets/motion/ezgif.com-gif-maker.mp4" width="400" />](./assets/motion/ezgif.com-gif-maker.mp4)
 
 <br>
 
